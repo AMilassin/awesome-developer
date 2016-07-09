@@ -8,6 +8,9 @@ Curated list of awesome things regarding development in general (e.g.: code qual
 ---
 ### Code Quality
 
+---
+### Design
+* [Type Anything - test typography](https://typeanything.io)
 
 
 ---
