@@ -1,5 +1,10 @@
-# awesome-developer
+# essential-developer
 Curated list of awesome things regarding development in general (e.g.: code quality, testing, security) 
+
+
+---
+### Security
+* [Securing PostgreSQL](http://thebuild.com/presentations/pgconfeu-2016-securing-postgresql.pdf)
 
 ---
 ### Writing Tests
